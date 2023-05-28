@@ -1,0 +1,17 @@
+2023/05/25 21:59:07 [emerg] 6812#11480: "location" directive is not allowed here in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:51
+2023/05/25 21:59:09 [emerg] 10572#6496: "location" directive is not allowed here in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:51
+2023/05/25 21:59:10 [emerg] 3612#7728: "location" directive is not allowed here in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:51
+2023/05/25 22:00:46 [emerg] 9436#460: invalid URL prefix in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:40
+2023/05/25 22:00:47 [emerg] 10036#8216: invalid URL prefix in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:40
+2023/05/25 22:00:48 [emerg] 2784#9692: invalid URL prefix in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:40
+2023/05/25 22:00:49 [emerg] 8968#11924: invalid URL prefix in D:\programação\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:40
+2023/05/26 20:44:31 [emerg] 7580#12876: invalid URL prefix in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:40
+2023/05/26 20:46:26 [emerg] 2940#12224: invalid URL prefix in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:40
+2023/05/26 20:55:11 [emerg] 8668#4208: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/26 20:55:46 [emerg] 3232#3740: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/26 21:15:16 [emerg] 4896#8892: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/26 21:15:33 [emerg] 4184#2656: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/26 21:15:34 [emerg] 7560#11664: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/26 21:41:44 [emerg] 2316#9708: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/26 21:41:46 [emerg] 4104#6508: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
+2023/05/27 18:50:58 [emerg] 5912#10876: "location" directive is not allowed here in C:\nginx-1.25.0\nginx-1.25.0/conf/nginx.conf:55
