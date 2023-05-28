@@ -1,0 +1,7 @@
+Uma API em geral é um serviço ‘web’ que fornece uma funcionalidade, a nossa API serve para calcular o super fatorial de um número. O super fatorial de um número inteiro positivo X é definido como o produto dos primeiros números fatoriais. Por exemplo, o super fatorial de 4 (representado como 4!!) 
+
+é calculado como: 
+
+4!! = 1! * 2! * 3! * 4! = 1 * 1 * 2 * 1 * 3 * 2 * 1 * 4 * 3 * 2 * 1 = 288 
+
+A API de super fatorial permite que os desenvolvedores acessem essa funcionalidade através de chamadas HTTP. Geralmente, a API recebe uma requisição com um número como parâmetro e retornaria o resultado do super fatorial desse número. A implementação exata de uma API de super fatorial pode variar dependendo da linguagem de programação e do framework escolhido no nosso caso foi a linguagem Python. No entanto, em geral, uma API desse tipo teria rotas ou endpoints dedicados para receber as solicitações dos usuários e calcular o super fatorial correspondente. Ela poderia fornecer uma ‘interface’ HTTP, onde os desenvolvedores poderiam enviar uma solicitação GET ou POST contendo o número desejado e, em resposta, receberiam o resultado do super fatorial. Além disso, a API pode oferecer recursos adicionais, como validação dos parâmetros de entrada, tratamento de erros, autenticação e autorização, documentação para os desenvolvedores e outros recursos comuns de APIs ‘web’.
